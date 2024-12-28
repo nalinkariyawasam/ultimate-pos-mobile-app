@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_res/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_res/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_res/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_res/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    }
+]

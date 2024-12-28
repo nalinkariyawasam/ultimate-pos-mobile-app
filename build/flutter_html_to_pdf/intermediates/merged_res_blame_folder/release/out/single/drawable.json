@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_html_to_pdf/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/levanjith/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_html_to_pdf/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/levanjith/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_html_to_pdf/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/levanjith/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_html_to_pdf/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/levanjith/.gradle/caches/transforms-3/b11c0e2c212c747cb4bcf29314469768/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    }
+]

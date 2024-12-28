@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_res/release/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/levanjith/.gradle/caches/transforms-3/278fcf19925a5c5c8e5fe3bbf5223382/transformed/jetified-core-1.9.13/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/incremental/mergeReleaseResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/levanjith/.gradle/caches/transforms-3/278fcf19925a5c5c8e5fe3bbf5223382/transformed/jetified-core-1.9.13/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

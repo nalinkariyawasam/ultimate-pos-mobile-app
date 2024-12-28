@@ -1,0 +1,476 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-17:19
+MERGED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-14:19
+MERGED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-13:19
+MERGED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-13:19
+MERGED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/d541669290eb2b5e81bd81301f81ebef/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/d541669290eb2b5e81bd81301f81ebef/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/6071ed5f0c8ce9daf39191378c87cff0/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/6071ed5f0c8ce9daf39191378c87cff0/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/c748f45b65740d5161908c1cae36b979/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/c748f45b65740d5161908c1cae36b979/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/levanjith/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/levanjith/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/a527b7ee56fe0cc18bf9ec9186fe42a0/transformed/jetified-zxing-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/a527b7ee56fe0cc18bf9ec9186fe42a0/transformed/jetified-zxing-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/278fcf19925a5c5c8e5fe3bbf5223382/transformed/jetified-core-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/278fcf19925a5c5c8e5fe3bbf5223382/transformed/jetified-core-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.8.0] /Users/levanjith/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/levanjith/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/levanjith/.gradle/caches/transforms-3/16d334c486cbdec77958d3d22ef782e4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/levanjith/.gradle/caches/transforms-3/16d334c486cbdec77958d3d22ef782e4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/levanjith/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:4:9-28
+	android:icon
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:6:9-43
+	android:name
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:5:9-42
+manifest
+ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:google_maps_flutter_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/google_maps_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:app_settings] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/app_settings/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_html_to_pdf] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_html_to_pdf/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-16:12
+MERGED from [:path_provider_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:shared_preferences_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:connectivity] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:search_choices] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:fluttertoast] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:permission_handler] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/permission_handler/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:video_player_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/21b26ef90e71324700151bde7e8603b7/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/d541669290eb2b5e81bd81301f81ebef/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/0b932e44c6b0de45b33bb16f64c44a86/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/dd57588210004b21e77a0318c1056e23/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/1fdd822e3228feab270af455f2f3a238/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/9c884789b57b2f5bd1933622f1e2d15c/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/6071ed5f0c8ce9daf39191378c87cff0/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/c748f45b65740d5161908c1cae36b979/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/levanjith/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/7deadb910d1bae61b10aabb2b158282c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/a527b7ee56fe0cc18bf9ec9186fe42a0/transformed/jetified-zxing-1.9.13/AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/278fcf19925a5c5c8e5fe3bbf5223382/transformed/jetified-core-1.9.13/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/620fe03bba1b1c827cf6a4d51585bc91/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/5131069a74de4699d8095baf873b54b9/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/8b26eb7120037e4d36638aa318e8be87/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/c263e81f8033ffd43c5266c5338edd83/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/levanjith/.gradle/caches/transforms-3/d30bbed11e01bbb52c48f9f18752619a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/53c7411b0a76e9add0d8efcc72d7a345/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/6e426380c04bba127355cec14d117f95/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/6af8bca3ddcb78f32f6694a214bd523b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/84929968d569d6259597f6aa72e963d8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba6d04d58a10f2c6173835a799a8b5ff/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/20a6462778966996399e03c68e51597d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/c6d11f52e4e8081f9a64e739aa1dac6d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/c4248e0c6a7af08c45a5561bab54f521/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/5954c833ba108fe116df35c1bad52594/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/5e8d76c533881f96b45042ea5efbc993/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/1ec724f0c82c66d5a38599bb5375d747/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/cca5e39c079ce4080199a191d519ea3b/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/09a99c85186c09d30c4b1199a941d51f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/78af9d1e549c9d79bddf8a9f3b6fda57/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /Users/levanjith/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/levanjith/.gradle/caches/transforms-3/f8af4d3dab65746e6bed0147129ed44f/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/2d02471870aa316b096e6926a6a97b8f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/3147532aea67e8f73e35abf288c0bf3e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/b668e1ed6fd5063748c9736c1945100b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/levanjith/.gradle/caches/transforms-3/1860b854a363574f2e690af557cabc1a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/levanjith/.gradle/caches/transforms-3/16d334c486cbdec77958d3d22ef782e4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/2f57e33928feca9a407b998d3b95461e/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/117f06383f4c1d5552aab7667e7efccd/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/d6e97545e2da7f45a5d4d2f92df2b3fc/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/fb3000dcde26d6e0be17f7ed63a10aee/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/7ba6dd315b894faa365cf059f0b248fa/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/120453716371826550a03abd10e878c7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/levanjith/.gradle/caches/transforms-3/8eb26f0aa86cc48c11242d7a197c2cab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/levanjith/.gradle/caches/transforms-3/bc3a9a67b8aecd29439312d810d3ba60/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/levanjith/.gradle/caches/transforms-3/12ac8b95c5dd14691931d3425ec9b202/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/levanjith/.gradle/caches/transforms-3/bb86a14d026a27f02ef3281a7e476e26/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/1942d12b33ce7a51a3319b734272dc26/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba2becd06070db218b75548a44787dfd/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/78e9784c8ccca17d35a95cba30da3ca1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba53b631c7f27ca2a015a79a3114d7be/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+	package
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+MERGED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/google_maps_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/google_maps_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:app_settings] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/app_settings/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:app_settings] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/app_settings/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_html_to_pdf] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_html_to_pdf/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_html_to_pdf] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/flutter_html_to_pdf/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:connectivity] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:search_choices] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:search_choices] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:fluttertoast] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/fluttertoast/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/permission_handler/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/permission_handler/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/21b26ef90e71324700151bde7e8603b7/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/21b26ef90e71324700151bde7e8603b7/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/d541669290eb2b5e81bd81301f81ebef/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/d541669290eb2b5e81bd81301f81ebef/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/8816943e8ffda4599029263bf67233fc/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/ff60b6f372c42212cc8a2687afbf229f/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/0b932e44c6b0de45b33bb16f64c44a86/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/0b932e44c6b0de45b33bb16f64c44a86/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/dd57588210004b21e77a0318c1056e23/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/dd57588210004b21e77a0318c1056e23/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/1fdd822e3228feab270af455f2f3a238/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/1fdd822e3228feab270af455f2f3a238/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/9c884789b57b2f5bd1933622f1e2d15c/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/9c884789b57b2f5bd1933622f1e2d15c/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/6071ed5f0c8ce9daf39191378c87cff0/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/levanjith/.gradle/caches/transforms-3/6071ed5f0c8ce9daf39191378c87cff0/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/c748f45b65740d5161908c1cae36b979/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/c748f45b65740d5161908c1cae36b979/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/levanjith/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/levanjith/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/7deadb910d1bae61b10aabb2b158282c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/7deadb910d1bae61b10aabb2b158282c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/a527b7ee56fe0cc18bf9ec9186fe42a0/transformed/jetified-zxing-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/a527b7ee56fe0cc18bf9ec9186fe42a0/transformed/jetified-zxing-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/278fcf19925a5c5c8e5fe3bbf5223382/transformed/jetified-core-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/levanjith/.gradle/caches/transforms-3/278fcf19925a5c5c8e5fe3bbf5223382/transformed/jetified-core-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/620fe03bba1b1c827cf6a4d51585bc91/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/620fe03bba1b1c827cf6a4d51585bc91/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/5131069a74de4699d8095baf873b54b9/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/5131069a74de4699d8095baf873b54b9/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/8b26eb7120037e4d36638aa318e8be87/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/8b26eb7120037e4d36638aa318e8be87/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/c263e81f8033ffd43c5266c5338edd83/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/c263e81f8033ffd43c5266c5338edd83/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/levanjith/.gradle/caches/transforms-3/d30bbed11e01bbb52c48f9f18752619a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/levanjith/.gradle/caches/transforms-3/d30bbed11e01bbb52c48f9f18752619a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/53c7411b0a76e9add0d8efcc72d7a345/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/53c7411b0a76e9add0d8efcc72d7a345/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/6e426380c04bba127355cec14d117f95/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/6e426380c04bba127355cec14d117f95/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/6af8bca3ddcb78f32f6694a214bd523b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/6af8bca3ddcb78f32f6694a214bd523b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/84929968d569d6259597f6aa72e963d8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/84929968d569d6259597f6aa72e963d8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba6d04d58a10f2c6173835a799a8b5ff/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba6d04d58a10f2c6173835a799a8b5ff/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/20a6462778966996399e03c68e51597d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/20a6462778966996399e03c68e51597d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/c6d11f52e4e8081f9a64e739aa1dac6d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/c6d11f52e4e8081f9a64e739aa1dac6d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/c4248e0c6a7af08c45a5561bab54f521/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/c4248e0c6a7af08c45a5561bab54f521/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/5954c833ba108fe116df35c1bad52594/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/5954c833ba108fe116df35c1bad52594/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/5e8d76c533881f96b45042ea5efbc993/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/5e8d76c533881f96b45042ea5efbc993/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/1ec724f0c82c66d5a38599bb5375d747/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/1ec724f0c82c66d5a38599bb5375d747/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/cca5e39c079ce4080199a191d519ea3b/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/cca5e39c079ce4080199a191d519ea3b/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/09a99c85186c09d30c4b1199a941d51f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/09a99c85186c09d30c4b1199a941d51f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/78af9d1e549c9d79bddf8a9f3b6fda57/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/78af9d1e549c9d79bddf8a9f3b6fda57/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /Users/levanjith/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/levanjith/.gradle/caches/transforms-3/005627934cb5de51d804cd3c597f8200/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/levanjith/.gradle/caches/transforms-3/f8af4d3dab65746e6bed0147129ed44f/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/levanjith/.gradle/caches/transforms-3/f8af4d3dab65746e6bed0147129ed44f/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/2d02471870aa316b096e6926a6a97b8f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/2d02471870aa316b096e6926a6a97b8f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/3147532aea67e8f73e35abf288c0bf3e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/3147532aea67e8f73e35abf288c0bf3e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/b668e1ed6fd5063748c9736c1945100b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/b668e1ed6fd5063748c9736c1945100b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/levanjith/.gradle/caches/transforms-3/1860b854a363574f2e690af557cabc1a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/levanjith/.gradle/caches/transforms-3/1860b854a363574f2e690af557cabc1a/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/levanjith/.gradle/caches/transforms-3/16d334c486cbdec77958d3d22ef782e4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/levanjith/.gradle/caches/transforms-3/16d334c486cbdec77958d3d22ef782e4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/2f57e33928feca9a407b998d3b95461e/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/2f57e33928feca9a407b998d3b95461e/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/117f06383f4c1d5552aab7667e7efccd/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/117f06383f4c1d5552aab7667e7efccd/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/d6e97545e2da7f45a5d4d2f92df2b3fc/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/d6e97545e2da7f45a5d4d2f92df2b3fc/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/fb3000dcde26d6e0be17f7ed63a10aee/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/fb3000dcde26d6e0be17f7ed63a10aee/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/7ba6dd315b894faa365cf059f0b248fa/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/7ba6dd315b894faa365cf059f0b248fa/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/120453716371826550a03abd10e878c7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/120453716371826550a03abd10e878c7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/levanjith/.gradle/caches/transforms-3/8eb26f0aa86cc48c11242d7a197c2cab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/levanjith/.gradle/caches/transforms-3/8eb26f0aa86cc48c11242d7a197c2cab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/levanjith/.gradle/caches/transforms-3/bc3a9a67b8aecd29439312d810d3ba60/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/levanjith/.gradle/caches/transforms-3/bc3a9a67b8aecd29439312d810d3ba60/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/levanjith/.gradle/caches/transforms-3/12ac8b95c5dd14691931d3425ec9b202/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/levanjith/.gradle/caches/transforms-3/12ac8b95c5dd14691931d3425ec9b202/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/levanjith/.gradle/caches/transforms-3/bb86a14d026a27f02ef3281a7e476e26/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/levanjith/.gradle/caches/transforms-3/bb86a14d026a27f02ef3281a7e476e26/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/1942d12b33ce7a51a3319b734272dc26/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/1942d12b33ce7a51a3319b734272dc26/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba2becd06070db218b75548a44787dfd/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba2becd06070db218b75548a44787dfd/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/78e9784c8ccca17d35a95cba30da3ca1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/78e9784c8ccca17d35a95cba30da3ca1/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba53b631c7f27ca2a015a79a3114d7be/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/levanjith/.gradle/caches/transforms-3/ba53b631c7f27ca2a015a79a3114d7be/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/levanjith/.gradle/caches/transforms-3/7b0449fa7552e8a8a339afd91dd38861/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml
+activity#com.example.one.MainActivity
+ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:7:9-27:20
+	android:launchMode
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:14:13-55
+	android:exported
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:9:13-36
+	android:configChanges
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:name
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:20:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:25:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:30:9-32:33
+	android:value
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:32:13-30
+	android:name
+		ADDED from /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/android/app/src/main/AndroidManifest.xml:31:13-44
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-16:56
+	android:enabled
+		ADDED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [:geolocator_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/geolocator_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-77
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-17:75
+	android:resource
+		ADDED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:17:17-72
+	android:name
+		ADDED from [:image_picker_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/image_picker_android/intermediates/merged_manifest/release/AndroidManifest.xml:16:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-74
+provider#net.nfet.flutter.printing.PrintFileProvider
+ADDED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-68
+	android:exported
+		ADDED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:printing] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/printing/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/9c884789b57b2f5bd1933622f1e2d15c/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/9c884789b57b2f5bd1933622f1e2d15c/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/7ba6dd315b894faa365cf059f0b248fa/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/levanjith/.gradle/caches/transforms-3/7ba6dd315b894faa365cf059f0b248fa/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:connectivity] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/connectivity/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:search_choices] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [:search_choices] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/search_choices/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.CAMERA
+ADDED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-62
+activity#de.mintware.barcode_scan.BarcodeScannerActivity
+ADDED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-84
+	android:name
+		ADDED from [:barcode_scan2] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/barcode_scan2/intermediates/merged_manifest/release/AndroidManifest.xml:12:19-81
+provider#io.flutter.plugins.share.ShareFileProvider
+ADDED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:share] /Users/levanjith/Documents/fl/UltimatePOS_Flutter_1.7.1_first/Ultimate_POS/build/share/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-70
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/levanjith/.gradle/caches/transforms-3/e1f53c96aa78f7b42431169b7cd59214/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] /Users/levanjith/.gradle/caches/transforms-3/2d343665ade3289abaa799768a8e9f4d/transformed/jetified-play-services-maps-18.1.0/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/levanjith/.gradle/caches/transforms-3/1a2cb69c9228e95e429c828957f3a3b6/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/levanjith/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/levanjith/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/levanjith/.gradle/caches/transforms-3/f0589360d9c02b2f33aa86e62a9e0782/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
